@@ -15,5 +15,7 @@ A full game explanation can be seen in the "doc" folder titled "userManual.docx"
 
 A full design documentation can be seen in the "doc" folder titled "designDoc.docx".
 
+A full demonstration can be found in the "demo" folder.
+
 All relevant code can be seen in the "src" folder. A top-level hierarchy design is utilized 
 in this project. The top-level module is labled "finalTopLevel.v". 
